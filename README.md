@@ -11,7 +11,9 @@ The following **required** functionality is complete:
 - [ ] User can view a list of top images on Instagram.
 - [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
 
+<img src='http://i.imgur.com/tnV5psA.gif' />
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
