@@ -3,6 +3,10 @@
 **Instagram** is an app which shows the top Instagram images
 Time spent: **2** hours spent in total
 
+## Author
+
+Dhiman, Jintao Zeng
+
 ## User Stories
 
 The following **required** functionality is complete:
